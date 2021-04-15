@@ -1,4 +1,6 @@
 #Speech To Text
+
+
 Android ile anlık konuşmayı yazıya çevirme.
 
 Anlık konuşmalarınızı bir mikrofon ile algılayıp yazıya dönüştüren Mobil uygulama.

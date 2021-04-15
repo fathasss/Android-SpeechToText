@@ -1,4 +1,4 @@
-#**SpeechToText**
+# **SpeechToText**
 
 
 Android ile anlık konuşmayı yazıya çevirme.
